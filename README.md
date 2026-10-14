@@ -25,7 +25,6 @@ Thứ tự đầu ra của mô hình:
 ]
 ```
 
-Không được thay đổi thứ tự các lớp khi triển khai.
 
 ## Tệp mô hình
 
